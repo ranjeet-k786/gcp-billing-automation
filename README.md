@@ -1,5 +1,4 @@
 # gcp-billing-automation
-# gcp-billing-automation
 # Google Cloud Billing Automation using Terraform
 
 ## Introduction
