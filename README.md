@@ -13,7 +13,7 @@ This repository contains Terraform scripts to automate billing alerts in Google 
 ## Setup
 
 ### 1. Clone the Repository
-```bas``
+
 git clone <repository-url>
 cd <repository-directory>
 
@@ -22,6 +22,7 @@ Replace the placeholder values in main.tf with your project-specific information
 Place your service account key JSON file in the directory and update the path in main.tf.
 
 ### 3. Initialize and Apply Terraform
+
 terraform init
 terraform plan
 terraform apply
