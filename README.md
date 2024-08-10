@@ -13,7 +13,6 @@ This repository contains Terraform scripts to automate billing alerts in Google 
 ## Setup
 
 ### 1. Clone the Repository
-
 git clone <repository-url>
 cd <repository-directory>
 
